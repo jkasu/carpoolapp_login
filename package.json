@@ -1,0 +1,41 @@
+{
+  "name": "carpoolapp_login",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.5",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {},
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkasu/carpoolapp_login.git"
+  },
+  "keywords": [
+    "carpoolapp"
+  ],
+  "author": "Jyothsna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkasu/carpoolapp_login/issues"
+  },
+  "homepage": "https://github.com/jkasu/carpoolapp_login#readme"
+}
